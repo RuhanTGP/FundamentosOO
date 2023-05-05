@@ -1,4 +1,4 @@
-package aula10.enumaracoes.exemplo01;
+package aula10.enumeration.exemplo01;
 
 public enum Status {
 
